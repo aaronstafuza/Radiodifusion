@@ -1,6 +1,6 @@
 # Radiodifusion
 
-#Modalidad de final una exposición individual oral de 1hs-2hs sobre ISDB-t ABNT NBR 15601 debe contener
+# Modalidad de final una exposición individual oral de 1hs-2hs sobre ISDB-t ABNT NBR 15601 debe contener
 - Sistema de transmisión
   - Deducción de los parámetros (N° de portadoras, N° de símbolos por cuadro OFDM, frecuencia de la IFFT)
   - Deducción de las tablas:
